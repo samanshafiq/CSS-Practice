@@ -1,0 +1,6 @@
+body{
+    background-image: url(CS\ Student.jpg);
+   /* background-repeat:repeat-x;  yeh row wise repeat ho again and again then use this property */
+    /*background-repeat: repeat-y;   yeh column wise repeat ho again and again then use this property */
+    /*background-repeat: no-repeat;  By using this our picture will not repeat again and again*/
+}
