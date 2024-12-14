@@ -1,0 +1,10 @@
+body{
+    background-image: url(CS\ Student.jpg);
+    background-repeat: no-repeat;
+    background-position: top; /*top sight center pr pic ho gi*/
+    background-position:right ; /*bcz of this image will be on right side but half image will be shown means center right */
+    background-position: left;/*bcz of this image will be on left side but half shown bcz of center left*/
+    background-position: bottom;/**/
+    background-position: top right;/* full image shown on right side bcz of this*/
+    background-position: top left;/* full image shown on right side bcz of this*/
+}
