@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+    font-size: 30px;
+}
+
+    /* 4 states of anchor tag */
+a:link {
+    color: green;
+}
+
+a:visited {
+    color:chocolate;
+}
+
+a:hover{
+    color:blue;
+}
+
+a:active{
+    color:yellow;
+}
