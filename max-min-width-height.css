@@ -1,0 +1,14 @@
+.main{
+    border: 5px solid red;
+   /*How to set maximum width*/ 
+    max-width: 200px;
+
+    /*How to set maximum height*/ 
+     max-height: 200px;
+
+      /*How to set minimum width*/ 
+      min-width: 300px;
+
+       /*How to set minimum height */ 
+    min-height: 200px;
+}
