@@ -1,0 +1,42 @@
+.first{
+    border: 5px solid red;
+    /*padding-top: 50px;
+    padding-left:25px;
+    padding-right:25px;
+    padding-bottom: 50px;*/
+
+    /*Short Hand property to write padding same values */
+    /*padding: 25px;*/
+
+    /*If we wanna write padding for all sides in one line */
+    /*padding: 50px 25px 50px 25px;*/
+    /*       top right bottom left*/
+
+    /*when top/bottom have same value and left/right have same value*/
+    padding:50px 25px;
+
+    /*write margin means 2 borders kay b/w distance*/
+    /*margin-top: 50px;
+    margin-bottom: 50px; 
+    margin-left: 25px;
+    margin-right: 25px;*/
+
+    /*same values of right left bottom top*/
+    /*margin:50px;*/
+
+    /*different values of top right bottom left*/
+    /*margin:50px 25px 50px 25px;*/ 
+
+     /*when margin of top/bottom have same value and left/right have same value*/
+    margin: 50px 25px;
+}
+
+.second{
+    border: 5px solid blue;
+    padding-top: 50px;
+    padding-left:25px;
+    padding-right:25px;
+    padding-bottom: 50px;
+
+     margin: 50px 25px;
+}
