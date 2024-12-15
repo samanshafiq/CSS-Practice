@@ -1,0 +1,60 @@
+.text{
+    width: 500px;
+    border: 5px solid #000;
+
+    /*color:red;*/
+
+    /*Text align properties*/
+
+    /*text-align: center;
+    text-align: left;   By default*/
+    /*text-align: right;*/
+    /*text-align: justify ;    means text full b/w lines ayay ga*/
+
+    /*Direction Properties*/
+    /*direction: rtl;   rtl means right to left*/
+   /* direction: ltr; */
+
+    /* Text Decoration */
+    /*text-decoration: underline;*/
+    /*text-decoration: overline;*/
+    /*text-decoration: none;  By default*/
+    /*text-decoration: line-through;*/
+
+    /*Text transformation*/
+    /*text-transform: capitalize;
+    text-transform: lowercase;
+    text-transform: uppercase;
+    text-transform: none; */
+
+    /*Line Height*/
+    /*line-height: 30px;     means lines gap/spacing*/
+    
+    /*text indent*/
+    /*text-indent: 50px;     means 1st line start after how many space*/
+
+    /*letter spacing */
+    /*letter-spacing: 2px;   means space b/w letters */
+
+    /*word spacing*/
+    /*word-spacing: 10px;    means space b/w every word*/
+    /*word-spacing: normal;*/
+
+    /*white space*/
+    /*white-space: pre;*/
+    /*white-space: nowrap;    means white space showing space which is in html paragraph tag words/lines and no wrap means line will be shown straight without wrapping*/ 
+}
+.me{
+    font-size: 40px;
+
+    /*text shadow*/
+    /*         vertical horizontal blur color*/
+    text-shadow: 3px      1px      2px  blue;
+
+
+    /*writing mode*/
+    /*writing-mode: vertical-lr;   means left to right*/ 
+   /* writing-mode: vertical-rl; right to left*/
+    /*writing-mode: sideways-rl;*/
+    /*writing-mode: sideways-lr;*/
+}    
