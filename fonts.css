@@ -1,0 +1,12 @@
+h1{
+    font-size: 70px;
+    font-weight: 900; /*is mein px nhi use ho ga font dark ho ga is sy*/
+}
+
+p{
+    font-size: 20px;
+    font-weight: 800;
+    font-style: italic;
+    font-variant: small-caps;  /* sbka font same rahay ga but large ho jayay gay sb*/
+    font-family: 'Times New Roman', Times, serif;  /*font show konsa hoga best practice yeh hai 3 yeh 4 font use karo as a backup*/
+}
