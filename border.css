@@ -1,0 +1,16 @@
+.first{
+    border-style: solid;
+    /*border-style: dashed;*/
+    /*border-style: double;*/
+    /*border-style: dotted;*/
+
+    /*border-width: 5px;*/
+
+    /*border-color: red;/*
+
+    /*border-radius: 18px;/* /* border radius corners ko curve krta*/
+
+    /*Shorthand property to set border*/
+    border: 5px solid red;
+    /*      width style color*/
+}
